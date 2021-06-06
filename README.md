@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/Ar1f007/fmentor-3-column-preview-card-component-main)
+- Live Site URL: [live site](https://3-column-preview-card-component-main-ar1f007.vercel.app/)
 
 ## My process
 
@@ -37,7 +37,6 @@ Users should be able to:
 
 - CSS custom properties
 - Flexbox
-- Desktop-first workflow
 - SCSS
 
 ## Author
