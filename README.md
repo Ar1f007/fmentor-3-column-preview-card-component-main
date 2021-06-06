@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshot
 
 ![](images/sc-1.png)
-![](images/sc-2.png)
+<img src="images/sc-2.png" width="375" />
 
 ### Links
 
